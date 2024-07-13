@@ -1,0 +1,86 @@
+pre {
+  background-color: #1e1e1e;
+  border: 1px solid #333;
+  border-radius: 4px;
+  padding: 10px;
+  overflow: auto;
+  white-space: pre-wrap;
+  color: #ffffff;
+}
+
+/* .overflow-y-auto {
+  max-height: 1000px;
+  overflow-y: auto;
+} */
+
+code {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.hljs-comment {
+  color: #d4d0ab;
+  font-style: italic;
+}
+
+.hljs-number {
+  color: #ffcc99;
+}
+
+.hljs-built_in {
+  color: #569cd6;
+}
+
+.hljs-string {
+  color: #d69d85;
+}
+
+.hljs-literal {
+  color: #ffcc99;
+}
+
+.hljs-keyword {
+  color: #c586c0;
+}
+
+.hljs-function {
+  color: #c586c0;
+}
+
+.hljs-title {
+  color: #9cdcfe;
+}
+
+.hljs-variable {
+  color: #4ec9b0;
+}
+
+.hljs-attribute {
+  color: #9cdcfe;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.p-4 {
+  padding: 1rem;
+}
+
+.whitespace-pre {
+          white-space: pre !important;
+      }
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #1e1e1e;
+  color: #ffffff;
+}
+
+[dir="ltr"] {
+  direction: ltr;
+}
+
